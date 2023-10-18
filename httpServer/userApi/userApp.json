@@ -1,0 +1,126 @@
+[ {
+      "salutation": "Miss",
+      "firstName": "Rachna",
+      "middleName": "",
+      "lastName": "Provider",
+      "genderCode": 2,
+      "genderDisplay": "Female",
+      "dob": "1991-06-03T18:30:00Z",
+      "admissionNumber": null,
+      "admissiondate": "1991-06-03T18:30:00Z",
+      "lstguardianDetail": [
+        {
+          "relation": "father",
+          "salutation": "Mr.",
+          "name": "Sahil sharma",
+          "gender": "male",
+          "age": "56",
+          "contact_no": "9336332284",
+          "email": "rajiv@yopmail.com",
+          "blood_group": "A+",
+          "school_employee": true,
+          "emp_id": 34567,
+          "IsActive": true,
+          "created_at": "1991-06-03T18:30:00Z"
+        },
+        {
+          "relation": "mother",
+          "salutation": "Mrs.",
+          "name": "Avantika sharma",
+          "gender": "Female",
+          "age": "51",
+          "contact_no": "9336332221",
+          "email": "rajiv@yopmail.com",
+          "blood_group": "B+",
+          "school_employee": false,
+          "emp_id": 0,
+          "IsActive": true,
+          "created_at": "1991-06-03T18:30:00Z"
+        }
+      ],
+      "lstContactDetail": [
+        {
+          "contactype": "Permaet",
+          "addressLine1": "Street #56",
+          "addressLine2": "model town",
+          "countryCode": 1,
+          "countryDisplay": "India",
+          "districtCode": 118,
+          "districtDisplay": "Agra",
+          "stateCode": 9,
+          "stateDisplay": "Uttar Pradesh",
+          "cityCode": 766,
+          "cityDisplay": "Agra",
+          "postalCode": "111077",
+          "IsActive": true
+        },
+        {
+          "contactype": "temp",
+          "addressLine1": "Street #56",
+          "addressLine2": "model town",
+          "countryCode": 1,
+          "countryDisplay": "India",
+          "districtCode": 118,
+          "districtDisplay": "Agra",
+          "stateCode": 9,
+          "stateDisplay": "Uttar Pradesh",
+          "cityCode": 766,
+          "cityDisplay": "Agra",
+          "postalCode": "111077",
+          "IsActive": true
+        }
+      ],
+      "lstClass": [
+        {
+          "class": "1st",
+          "section": "A",
+          "year": 2014,
+          "Inhouse": [
+            {
+              "HouseName": "yellow house",
+              "IsActive": false,
+              "created_at": "1991-06-03T18:30:00Z",
+              "updated_at": "1991-06-03T18:30:00Z"
+            },
+            {
+              "HouseName": "red house",
+              "IsActive": true,
+              "created_at": "1991-06-03T18:30:00Z",
+              "updated_at": "1991-06-03T18:30:00Z"
+            }
+          ]
+        },
+        {
+          "class": "2nd",
+          "section": "A",
+          "year": 2015,
+          "Inhouse": [
+            {
+              "HouseName": "yellow house",
+              "IsActive": false,
+              "created_at": "1991-06-03T18:30:00Z",
+              "updated_at": "1991-06-03T18:30:00Z"
+            },
+            {
+              "HouseName": "red house",
+              "IsActive": true,
+              "created_at": "1991-06-03T18:30:00Z",
+              "updated_at": "1991-06-03T18:30:00Z"
+            }
+          ]
+        }
+      ],
+      "transport": {
+        "transport_facility": true,
+        "lstTransport": {
+          "trnasport_type": "Bus",
+          "route-no": "B-45",
+          "route_follow": "rampur to sitapur",
+          "conductor_name": "Ravinder",
+          "conductor_no": 1234567890
+        }
+      },
+      "library_facility": true,
+      "source": "1",
+      "active": true
+    }]
